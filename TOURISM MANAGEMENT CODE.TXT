@@ -1,0 +1,353 @@
+TOURISM WEBSITE CODE
+
+<html>
+<head>
+<center>
+<h1><p style="color: red;">Tourism Website</p></h1><hr><hr>
+</title>
+</center>
+<link rel="stylesheet" href="style.css">
+<style>
+body {
+font-family: Arial;
+margin: 0;
+background-color: #f4f4f4;
+}
+.intro {
+background: white;
+padding: 15px;
+border-radius: 10px;
+margin-bottom: 20px;
+}
+.btn {
+background-color: #27ae60;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+}
+</style>
+</head>
+
+<body bgcolor="pink">
+
+<h1>Welcome to Tourism Website</h1>
+<p><h2>Explore India's Best Tourist Places</h2></p>
+
+<a href="hotels.html" target="home"></a>
+<a href="food.html" target="home"></a>
+<a href="booking.html" target="home"></a>
+<a href="contact.html" target="home"></a>
+<!-- Introduction -->
+<div class="intro">
+<h2>Introduction</h2>
+<p>
+Tourism is the activity of traveling to different places for enjoyment,
+relaxation, and learning. It helps people explore new cultures and traditions.
+</p>
+<p>
+It also supports the economy by creating jobs and promoting local businesses.
+</p>
+</div>
+
+<!-- Highlight Section -->
+<div class="highlight">
+<h2>Why Visit India?</h2>
+<ul>
+<li>Beautiful Beaches</li>
+<li>Historical Monuments</li>
+<li>Diverse Culture</li>
+<li>Delicious Food</li>
+</ul>
+</div>
+
+<!-- Button -->
+<center>
+<a href="destination1.html" class="btn">View Destinations</a>
+</center>
+
+</div>
+
+
+</body>
+</html>
+
+
+DESTINATIONS 1
+
+
+
+<html>
+<head>
+<title>Destinations</title>
+<style>
+.btn {
+background-color: #27ae60;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+}
+</style>
+</head>
+<body>
+
+
+
+<header><h1>Tourist Destinations</h1></header>
+
+<div class="container">
+<div class="card">Taj Mahal </div>
+<div class="card">Goa </div>
+<div class="card">Jaipur Palace</div>
+</div>
+<h1>TAJ MAHAL</h1>
+
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 195349.png" alt="Centered Image" height="400" width="400">
+<p>The <b>Taj Mahal</b> is a magnificent white marble mausoleum located in <b>Agra,</b>, India. It was built by the Mughal Emperor <b>Shah Jahan</b> in memory of his beloved wife, <b>Mumtaz Mahal</b>, between 1632 and 1653. This architectural masterpiece is celebrated as one of the <b>Seven Wonders of the World</b> and is a UNESCO World Heritage site. It is famous for its perfect symmetry, grand central dome, and four tall minarets standing on the banks of the <b>Yamuna River</b>.</p>
+<p>The structure is a brilliant blend of <b>Islamic, Persian, and Indian</b> architectural styles. Its walls are decorated with beautiful calligraphy and <b>Pietra Dura</b> (intricate stone inlay work) using semi-precious gems. Surrounded by a large Mughal garden called the <b>Charbagh</b>, the Taj Mahal remains a global symbol of eternal love and attracts millions of visitors every year.</p>
+
+<h1>GOA</h1>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 193233.png" height="400" width="400">
+<p>Goa is India's smallest state, located on the west coast. It is world-famous for its beautiful <b>beaches</b>, like Calangute and Palolem, and its relaxed lifestyle. Panaji is the capital, and the main language spoken is <b>Konkani.</b></p>
+<p>The state has a unique culture because it was ruled by the <b>Portuguese</b> for 450 years. This history is visible in its colorful houses and grand churches, such as the Basilica of Bom Jesus. Besides tourism, Goa is known for <b>Dudhsagar Falls</b>, spice plantations, and delicious seafood like fish curry.</p>
+
+<h1>JAIPUR PALACE</h1>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 201223.png" height="400" width="400">
+<p>The City Palace in Jaipur is a grand royal complex built by <b>Maharaja Sawai Jai Singh II</b> in 1729. It is famous for its beautiful blend of <b>Rajput and Mughal architecture</b>, featuring colorful courtyards and grand gates like the famous Peacock Gate.</p>
+<p>A portion of the palace is still home to the royal family, while the rest is a <b>museum</b> displaying royal costumes and massive silver urns. Located in the heart of the "Pink City," it remains one of Rajasthan's most iconic historical landmarks.</p>
+<p><a href="rudra.html">back</a></p>
+<!-- Button -->
+<center>
+<a href="hotels.html" class="btn">View Hotels</a>
+</center>
+
+
+
+</body>
+</html>
+
+HOTELS INFORMATION
+
+
+<html>
+<head>
+<title>Hotels</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.btn {
+background-color: #27ae60;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+}
+</style>
+
+</head>
+<body>
+<header><h1>Hotels & Stay</h1></header>
+<p>Find the best hotels and hostels for your trip</p>
+<h2>Hotel Facilities</h2>
+<p>
+Hostels near these tourist places provide clean rooms, free Wi-Fi, and comfortable beds for travelers.
+They also offer food services, safety, and affordable prices for students and tourists.
+</p>
+<h2>Hotels Near Goa</h2>
+
+<h3>Sea View Resort</h3>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 215402.png" height="400" width="400">
+<p>Beautiful hotel near Goa beach with amazing sea view.</p>
+<p>Seaview Resort” is a common name used by multiple beachside properties across India, so the exact details depend on which location you mean. In Maharashtra, popular options include the Seaview resorts near Shrivardhan and Alibag, both known for their close proximity to the beach, peaceful surroundings, and comfortable sea-facing rooms that attract weekend travelers from cities like Mumbai and Pune. 
+
+<h2>Hotels Near Taj Mahal</h2>
+
+<h3>Taj Hotel Agra</h3>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 215651.png" height="400" width="400">
+
+<p>Comfortable stay near Taj Mahal with great facilities.</p>
+<p>The Taj Hotel in Agra, officially called Taj Hotel & Convention Centre, is a luxury 5-star property located very close to the iconic Taj Mahal, making it one of the most preferred stays for tourists visiting the city. Situated on Taj East Gate Road, the hotel offers modern, elegant rooms and suites with contemporary interiors, large windows, and premium amenities designed for comfort and luxury. Many rooms and public areas provide stunning views of the Taj Mahal, especially from its famous rooftop infinity pool and sky lounge.<p>
+
+
+
+<h2>Hotels Near Jaipur Palace</h2>
+
+<h3>Jaipur Royal Hotel</h3>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 215916.png" height="400" width="400">
+
+<p>Luxury hotel with royal Rajasthani experience.</p>
+
+
+<p>In Jaipur, often called the Pink City, “royal hotels” usually refer to heritage properties inspired by Rajasthan’s palace culture rather than a single hotel name. One popular option is Hotel Royal Orchid Jaipur, a modern 5-star hotel near the airport that combines luxury rooms, rooftop pool, and fine dining, making it ideal for both tourists and business travelers. For a more traditional royal experience, Royal Heritage Haveli Jaipur offers a boutique stay in a restored haveli with classic architecture, courtyards, and a peaceful atmosphere reflecting Rajasthan’s royal past. <p>
+
+
+
+<p><a href="rudra.html"></a></p>
+<p><a href="destination1.html">back</a></p>
+<!-- Button -->
+<center>
+<a href="food.html" class="btn">View Foods</a>
+</center>
+
+</body>
+</html>
+FOOD
+
+
+<html>
+<head>
+<title>Food</title>
+<style>
+.btn {
+background-color: #27ae60;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+}
+</style>
+
+</head>
+<body>
+<h1>Food Menu</h2>
+<table border="1">
+<tr>
+<th>Name</th>
+<th>price</th>
+<th></th>
+</tr>
+<tr>
+<td>Spicy Chicken</td>
+<td>200</td>
+<td></td>
+</tr>
+<tr>
+<td>Pomprety Fry</td>
+<td>150</td>
+<td></td>
+</tr>
+<tr>
+<td>Pizza</td>
+<td>100</td>
+<td><img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-06 085818.png" height="200" width="200"></td>
+</tr>
+<tr>
+<td>Sandwitch</td>
+<td>50</td>
+<td></td>
+</tr>
+<tr>
+<td> Fry Papad</td>
+<td>30</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Ice-cream</td>
+<td>20</td>
+<td><img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-06 085725.png" height="200" width="200"></td>
+</tr>
+<tr>
+<td>tea</td>
+<td>10</td>
+<td></td>
+</tr>
+
+
+</table>
+
+
+
+<header><h1>Famous Foods</h1></header>
+<h2>Goa</h2>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 220931.png" height="300" width="300">
+<h2>FISH CURRY DISH</h2>
+<p>
+Goa is famous for seafood dishes like <b>Fish Curry Rice</b> and Prawn Balchão.
+These foods have a unique blend of Indian and Portuguese flavors.
+</p>
+<p>Fish curry rice is a classic coastal Indian dish made of spicy, tangy fish curry served with steamed rice, and it’s especially popular in regions like Goa, Kerala, Maharashtra, and West Bengal. The dish varies by region, but it generally combines fresh fish cooked in a flavorful gravy made with spices, and is eaten with plain rice to balance the richness<p>.
+
+
+<h2>Jaipur</h2>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 220807.png" height="300" width="300">
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-06 084227.png" height="300" width="300">
+<h2>GHEVAR</h2>
+<p>
+Jaipur is known for traditional dishes like Dal Baati Churma and Ghewar.
+These foods are rich in taste and represent royal culture.
+Ghevar is a famous traditional sweet from Rajasthan, especially popular in cities like Jaipur. It is a disc-shaped dessert made from flour, ghee, and sugar syrup, known for its unique honeycomb-like texture that is both crisp and juicy.<p>
+<h2>Taj Mahal (Agra)</h2>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-03 220655.png" height="300" width="300">
+<h2>PETHA</h2>
+<p>
+Agra is famous for sweets like Petha and Mughlai dishes like Biryani.
+These foods reflect Mughal culture and are loved by tourists.
+Petha is a famous North Indian sweet that originates from Agra and is closely associated with the city’s culinary identity, much like the Taj Mahal is with its history. It is a translucent, soft candy made from ash gourd (also called winter melon), sugar, and flavorings.
+
+</p>
+<p><a href="rudra.html"></a></p>
+<p><a href="hotels.html">back</a></p>
+<!-- Button -->
+<center>
+<a href="booking.html" class="btn">View Booking</a>
+</center>
+
+
+</body>
+</html>
+
+
+<html>
+<head>
+<title>Booking</title>
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
+<style>
+.btn {
+background-color: #27ae60;
+color: white;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+}
+</style>
+</head>
+<body>
+
+
+<header><h1>Booking Form</h1></header>
+
+<div class="container">
+<form onsubmit="return validateForm()">
+<input type="text" id="name" placeholder="Enter Name"><br>
+<input type="email" id="email" placeholder="Enter Email"><br>
+
+<select id="place">
+<option value="">Select Destination</option>
+<option>Goa</option>
+<option>Agra</option>
+<option>Jaipur</option>
+</select><br>
+
+<input type="date" id="date"><br><br>
+
+<button type="submit">Book Now</button>
+</form>
+</div>
+<header><h1>Contact Us</h1></header>
+<div class="container">
+<p>Email: tourism@gmail.com</p>
+<p>Phone: 987XX XXXXX</p>
+</div>
+<img src="C:\Users\GOVINDA COMP YEOLA\Pictures\Screenshots\Screenshot 2026-04-06 082632.png" height="400" width="400">
+<p><a href="rudra.html"></a></p>
+<p><a href="food.html">back</a></p>
+<!-- Button -->
+<center>
+<a href="rudra.html" class="btn">View Home</a>
+</center>
+
+</body>
+</html>
+
